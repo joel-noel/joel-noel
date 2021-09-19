@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joel-noel
+- 👀 I’m interested in Data Science, anime, Marvel movies, 
+- 🌱 I’m currently learning Data Science, Python, and HTML.
+- 📫 How to reach me ... Email me -> jnoel0201@gmail.com
